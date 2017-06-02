@@ -1,0 +1,55 @@
+body{
+  text-align: center;
+  background-color:#FF3846;
+  color:white;
+}
+
+p{
+  font-family: 'Roboto', sans-serif;
+}
+
+img{
+  width:auto;
+  height: 250px;
+}
+
+.pagetitle {
+  color:white;
+  text-align: center;
+  height: 100px;
+  line-height: 100px;
+  vertical-align: middle;
+  width:100%;
+  font-family: 'Oswald', sans-serif;
+}
+
+.heroes{
+  width: 100%;
+}
+
+.super1{
+  display: inline-block;
+  vertical-align: top;
+  align-self: center;
+  width:19%;
+}
+
+.title{
+  text-align: center;
+  height: 100px;
+  line-height: 100px;
+  font-family: 'Oswald', sans-serif;
+}
+
+.heroimage{
+  width:100%;
+  height:100px;
+  display: inline-block ;
+}
+
+.heroexplanation{
+  display: inline-block;
+  font-family: 'Oswald', sans-serif;
+  margin-top: 25px;
+
+}

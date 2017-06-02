@@ -1,0 +1,22 @@
+body{
+  text-align: center;
+  background-color: #FF3846;
+  font-family: 'Oswald', sans-serif;
+  color:white;
+}
+
+.cake{
+  width:100%;
+  display:inline-block;
+}
+
+.message{
+  height: 100px;
+  margin: 100px;
+}
+
+a{
+  text-decoration: none;
+  color:white;
+  font-size: 24px;
+}
